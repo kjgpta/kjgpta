@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 
 
-I'm a dedicated Data Engineer at **Chubb Business**, specializing in *Databricks* and *CosmosDB*. I hold a bachelors degree in *Electrical and Electronics Engineering* from **BITS Pilani, Pilani Campus**. 
+I'm a dedicated *Data Engineer* at **Chubb Business**, specializing in *Databricks* and *CosmosDB*. I hold a bachelors degree in *Electrical and Electronics Engineering* from **BITS Pilani, Pilani Campus**. 
 
 My passion lies in the realm of Machine Learning, a field with vast potential applications, particularly in cutting-edge areas like Robotics. Within the domain of Machine Learning, I have a keen focus on Deep Learning. 
 
