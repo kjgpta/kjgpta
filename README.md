@@ -1,16 +1,38 @@
-### Hi there 👋
+# 👋 Hello, I'm Kshitij Gupta
 
-<!--
-**kjgpta/kjgpta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 
+I'm a dedicated Data Engineer at Chubb Business, specializing in Databricks and CosmosDB. I hold an undergraduate degree in Electrical and Electronics Engineering from BITS Pilani, Pilani Campus. 
 
-Here are some ideas to get you started:
+My passion lies in the realm of Machine Learning, a field with vast potential applications, particularly in cutting-edge areas like Robotics. Within the domain of Machine Learning, I have a keen focus on Deep Learning. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore and connect with me as we journey through the world of data and artificial intelligence!
+
+## 🚀 About Me
+
+- 🔭 I'm currently working on Word-Based Contextual Embeddings based on Graphs.
+- 🌱 I'm constantly learning and exploring new technologies.
+- 💬 Ask me about Natural Language Processing.
+- 📫 You can reach me at mailguptakshitij@gmail.com
+
+## 🛠️ Technologies & Tools
+
+Here are some of the technologies and tools I'm familiar with:
+
+- Programming Languages: Python, C, C++, Java, JavaScript, HTML, CSS
+- Frameworks & Libraries: Pytorch, Tensorflow, Keras, Huggingface, Transformers, Flask, Django
+- Databases: SQL, NoSQL, CosmosDB
+- Tools: Git, GitHub, Azure, Linux, Bash, Vim, VS Code, Jupyter Notebook, PyCharm, Eclipse, Unity,
+
+
+## 🌐 Connect with Me
+
+Let's connect and chat! You can find me on various platforms:
+
+- [Twitter](https://twitter.com/kjgpta)
+- [LinkedIn](https://www.linkedin.com/in/kjgpta/)
+- [Google Scholar](https://scholar.google.com/citations?user=uvSOzIkAAAAJ&hl=en)
+- [Personal Website](https://kjgpta.github.io/)
+
+Feel free to reach out, and let's collaborate on exciting projects or have a friendly conversation.
+
+Thank you for visiting my GitHub profile! 😊
