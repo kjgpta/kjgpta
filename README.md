@@ -10,7 +10,7 @@ Feel free to explore and connect with me as we journey through the world of data
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on Word-Based Contextual Embeddings based on Graphs.
+- 🔭 I'm currently working on a benchmark for testing the deduction and reasoning capability for LLM.
 - 🌱 I'm constantly learning and exploring new technologies.
 - 💬 Ask me about Natural Language Processing.
 - 📫 You can reach me at mailguptakshitij@gmail.com
