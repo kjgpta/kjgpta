@@ -27,7 +27,7 @@ I hold a **Bachelor of Engineering** in *Electronics & Electrical Engineering* f
 ## 🛠️ My Tech Stack  
 
 ### 📌 Programming Languages  
-`Python` `Java` `C` `C++` `C#` `JavaScript` `Bash` `SQL`  
+- `Python` `Java` `C` `C++` `C#` `JavaScript`
 
 ### 🔥 Machine Learning & Deep Learning  
 - `PyTorch` `TensorFlow` `Keras` `Hugging Face Transformers`  
