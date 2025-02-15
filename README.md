@@ -18,7 +18,7 @@ I hold a **Bachelor of Engineering** in *Electronics & Electrical Engineering* f
 
 ### 🚀 What I'm Working On  
 
-- 🍳 **[Recipe API]((https://github.com/kjgpta/Recipe-API))** – Fine-tuning an **LLM on recipe data** to build an open-source **culinary AI**!  
+- 🍳 **[Recipe API](https://github.com/kjgpta/Recipe-API)** – Fine-tuning an **LLM on recipe data** to build an open-source **culinary AI**!  
 - 🕵️ **[WhoDunIt](https://huggingface.co/datasets/kjgpta/WhoDunIt)** – A benchmark for evaluating **deduction & reasoning in LLMs**.  
 - 🛠️ **Pushing the boundaries** of **efficient inference, distributed training, and NLP applications**.  
 
