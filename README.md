@@ -1,84 +1,115 @@
-<h1 align="center">👋 Hey there, I'm Kshitij Gupta! </h1>
 <p align="center">
-  🚀 Machine Learning Engineer | 🤖 LLMs & NLP Enthusiast | 📚 AI Researcher
+  <img src="https://raw.githubusercontent.com/kjgpta/kjgpta/master/assets/banner.gif" alt="AI Banner" />
+</p>
+
+<h1 align="center">👋 Hi, I'm <strong>Kshitij Gupta</strong>!</h1>
+<p align="center">
+  <em>ML Engineer | LLM & NLP Enthusiast | AI Researcher</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kjgpta/">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=uvSOzIkAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-EA4335?style=flat&logo=google-scholar" alt="Google Scholar" />
+  </a>
 </p>
 
 ---
 
-### 🏆 About Me  
+## 🏆 About Me
+  
+🔹 **Role:** Machine Learning Engineer @ Chubb Business Services India  
+  
+🔹 **Education:** B.E. in Electronics & Electrical Engineering, BITS Pilani
+  
+🔹 **Research:** Deep Learning, NLP, Code-Switching NLP (ACL, AACL-IJCNLP, IALP, AISC, ACIIDS)
+  
+🔹 **Interests:** LLM reasoning, Retrieval-Augmented Generation (RAG), Efficient Inference  
 
-I'm a **Machine Learning Engineer** at **Chubb Business Services India**, specializing in **LLMs, Databricks, and Azure Machine Learning**.  
-I hold a **Bachelor of Engineering** in *Electronics & Electrical Engineering* from **BITS Pilani, Pilani Campus**.  
-
-💡 My research focuses on **Deep Learning, NLP, and Code-Switching NLP**, and I’ve published work in **ACL, AACL-IJCNLP, IALP, AISC and ACIIDS**.  
-
-🔍 I love exploring **LLM reasoning, retrieval-augmented generation (RAG), and optimization techniques**.  
-
---- 
-
-### 🚀 What I'm Working On  
-
-- 🍳 **[Recipe API](https://github.com/kjgpta/Recipe-API)** – Fine-tuning an **LLM on recipe data** to build an open-source **culinary AI**!  
-- 🕵️ **[WhoDunIt](https://huggingface.co/datasets/kjgpta/WhoDunIt)** – A benchmark for evaluating **deduction & reasoning in LLMs**.  
-- 🛠️ **Pushing the boundaries** of **efficient inference, distributed training, and NLP applications**.  
-
---- 
-
-## 🛠️ My Tech Stack  
-
-### 📌 Programming Languages  
-- `Python` `Java` `C` `C++` `C#` `JavaScript`
-
-### 🔥 Machine Learning & Deep Learning  
-- `PyTorch` `TensorFlow` `Keras` `Hugging Face Transformers`  
-- `DeepSpeed` `vLLM` `OpenAI API` `LangChain`  
-- `Scikit-learn` `XGBoost` `LightGBM`  
-
-### 🏗️ ML Infrastructure & MLOps  
-- `Azure Machine Learning` `Databricks` `Google Vertex AI` `AWS SageMaker`  
-- `MLflow` `Kubeflow` `Ray` `Dask`  
-- `Docker` `Kubernetes` `Terraform`  
-
-### 🛢️ Databases & Data Engineering  
-- `SQL` `NoSQL` `CosmosDB` `PostgreSQL` `MongoDB`  
-- `Apache Spark` `Kafka` `Redis` `Elasticsearch`  
-- `Databricks Delta Lake` `Snowflake`  
-
-### 🛠️ DevOps & Tools  
-- `Git` `GitHub` `GitLab` `Jenkins`  
-- `Linux` `Bash` `VS Code` `Jupyter Notebook` `PyCharm`  
-- `Prometheus` `Grafana` `ELK Stack`  
-
-### 🖥️ Web Development & APIs  
-- `Flask` `FastAPI` `Django`  
-- `Spring Boot` `Node.js` `Express.js`  
-- `GraphQL` `REST API` `gRPC`
 
 ---
 
-## 📜 Research Publications  
+## 💡 Current Focus
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kjgpta/kjgpta/master/assets/focus.gif" alt="Focus" width="600" />
+</div>
 
-📖 **WhoDunIt:** Evaluation benchmark for culprit detection in mystery stories (ACL ARR, 2024)  
-📖 **Singaporean Conversational English-Malay Code-Switching Points** (IALP, 2023)  
-📖 **Adapting Code-Switching Language Models with Statistical-Based Text Augmentation** (ACIIDS, 2023)  
-📖 **MALM:** Mixing Augmented Language Modeling for Zero-Shot Machine Translation (AACL-IJCNLP, 2022)  
-📖 **Data Augmentation for Automated Essay Scoring using Transformer Models** (AISC, 2023)
-
----
-
-## 🌐 Connect with Me  
-
-Let's connect and collaborate!  
-
-💼 **LinkedIn** – [@kjgpta](https://www.linkedin.com/in/kjgpta/)  
-🐦 **Twitter** – [@kjgpta](https://twitter.com/kjgpta)  
-🤖 **Hugging Face** – [WhoDunIt Benchmark](https://huggingface.co/datasets/kjgpta/WhoDunIt)  
-🎓 **Google Scholar** – [Research Profile](https://scholar.google.com/citations?user=uvSOzIkAAAAJ&hl=en)  
-🌐 **Portfolio** – [Visit My Website](https://kjgpta.github.io/)  
-📧 **Email** – mailguptakshitij@gmail.com  
+- 🚀 **Speculative Decoding** for ultra-low-latency LLM outputs  
+- ⚙️ **Hierarchical Loss Functions** to speed up convergence  
+- 🌐 Distributed inference and system-level optimizations  
 
 ---
 
-💡 *"AI is the most powerful tool we have—let's use it wisely!"* 🚀  
+## 🚀 Recent Projects
 
-Thanks for stopping by! 😊 
+<div align="center">
+  <a href="https://huggingface.co/datasets/kjgpta/WhoDunIt">
+    <img src="https://img.shields.io/badge/WhoDunIt-NLP-blue?style=for-the-badge&logo=huggingface" alt="WhoDunIt" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/EfficientLLM-WIP-lightgrey?style=for-the-badge&logo=github" alt="EfficientLLM" />
+  </a>
+</div>
+
+| Project | Description | Status |
+|:-------:|:-----------:|:------:|
+| 🕵️ **WhoDunIt**  | Benchmark for deduction & reasoning in LLMs. | ✅ Live |
+| ⚙️ **EfficientLLM** | Speculative decoding & hierarchical loss modules. | 🚧 WIP |
+
+---
+
+## 🛠️ Tech Stack
+
+<details>
+<summary><strong>Languages & Frameworks</strong></summary>
+
+Python | Java | C++ | JavaScript
+PyTorch | TensorFlow | Keras | Transformers
+DeepSpeed | vLLM | OpenAI API | LangChain
+
+</details>
+
+<details>
+<summary><strong>Infrastructure & MLOps</strong></summary>
+
+Azure ML Studio | Databricks | GCP Vertex AI | AWS SageMaker
+MLflow | Kubeflow | Docker | Kubernetes | AKS
+
+</details>
+
+<details>
+<summary><strong>Data & DevOps</strong></summary>
+
+PostgreSQL | MongoDB | Apache Spark | Kafka | Redis
+Git, GitHub Actions, Jenkins | Linux | Bash | Jupyter
+
+</details>
+
+---
+
+## 📚 Publications
+
+<ul>
+<li><strong>WhoDunIt:</strong> Culprit detection benchmark (ACL ARR, 2024)</li>
+<li><strong>Code-Switching NLP</strong> (IALP, 2023)</li>
+<li><strong>Statistical Text Augmentation</strong> (ACIIDS, 2023)</li>
+<li><strong>MALM: Zero-Shot MT</strong> (AACL-IJCNLP, 2022)</li>
+<li><strong>Essay Scoring with Transformers</strong> (AISC, 2023)</li>
+</ul>
+
+---
+
+## 🌐 Let's Connect!
+
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/kjgpta/">![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)</a>
+  
+  <a href="mailto:mailguptakshitij@gmail.com">![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)</a>
+</p>
+
+---
+
+> *“AI is our most powerful tool—let’s use it wisely!”* 🚀
