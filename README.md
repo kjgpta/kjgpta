@@ -2,114 +2,162 @@
   <img src="https://raw.githubusercontent.com/kjgpta/kjgpta/master/assets/banner.gif" alt="AI Banner" />
 </p>
 
-<h1 align="center">👋 Hi, I'm <strong>Kshitij Gupta</strong>!</h1>
+<h1 align="center">Hi, I'm Kshitij Gupta 👋</h1>
+
 <p align="center">
-  <em>ML Engineer | LLM & NLP Enthusiast | AI Researcher</em>
+  <strong>Forward Deployed Engineer @ TrueFoundry</strong><br/>
+  Building production-grade AI systems, agentic workflows, and LLM infrastructure.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kjgpta/">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
   <a href="https://scholar.google.com/citations?user=uvSOzIkAAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-EA4335?style=flat&logo=google-scholar" alt="Google Scholar" />
+    <img src="https://img.shields.io/badge/Google%20Scholar-Publications-EA4335?style=flat&logo=google-scholar" />
+  </a>
+  <a href="mailto:mailguptakshitij@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail" />
   </a>
 </p>
 
 ---
 
-## 🏆 About Me
-  
-🔹 **Role:** Machine Learning Engineer @ Chubb Business Services India  
-  
-🔹 **Education:** B.E. in Electronics & Electrical Engineering, BITS Pilani
-  
-🔹 **Research:** Deep Learning, NLP, Code-Switching NLP (ACL, AACL-IJCNLP, IALP, AISC, ACIIDS)
-  
-🔹 **Interests:** LLM reasoning, Retrieval-Augmented Generation (RAG), Efficient Inference  
+## About Me
 
+I'm an engineer focused on deploying AI systems that work reliably in production.
+
+My work spans:
+
+* Building LLM-powered applications and agentic workflows
+* Retrieval-Augmented Generation (RAG)
+* LLM fine-tuning and evaluation
+* High-performance inference with vLLM
+* Kubernetes-native AI infrastructure
+* End-to-end AI product deployment
+
+Currently, I work as a **Forward Deployed Engineer at TrueFoundry**, helping customers design, deploy, and scale production AI applications.
+
+Previously, I worked as a **Machine Learning Engineer at Chubb**, where I built large-scale GenAI systems, fine-tuned Llama models, deployed inference workloads on AKS, and developed multi-agent architectures for enterprise use cases.
 
 ---
 
-## 💡 Current Focus
+## Current Focus
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/kjgpta/kjgpta/master/assets/focus.gif" alt="Focus" width="600" />
 </div>
 
-- 🚀 **Speculative Decoding** for ultra-low-latency LLM outputs  
-- ⚙️ **Hierarchical Loss Functions** to speed up convergence  
-- 🌐 Distributed inference and system-level optimizations  
+* Agentic AI systems
+* Production LLM deployments
+* Speculative decoding and inference optimization
+* Evaluation and benchmarking for reasoning models
+* Retrieval systems and knowledge-intensive applications
+* AI infrastructure and platform engineering
 
 ---
 
-## 🚀 Recent Projects
+## Featured Projects
 
-<div align="center">
-  <a href="https://huggingface.co/datasets/kjgpta/WhoDunIt">
-    <img src="https://img.shields.io/badge/WhoDunIt-NLP-blue?style=for-the-badge&logo=huggingface" alt="WhoDunIt" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/EfficientLLM-WIP-lightgrey?style=for-the-badge&logo=github" alt="EfficientLLM" />
-  </a>
-</div>
+### 🕵️ WhoDunIt
 
-| Project | Description | Status |
-|:-------:|:-----------:|:------:|
-| 🕵️ **WhoDunIt**  | Benchmark for deduction & reasoning in LLMs. | ✅ Live |
-| ⚙️ **EfficientLLM** | Speculative decoding & hierarchical loss modules. | 🚧 WIP |
+Reasoning benchmark for evaluating culprit detection and deductive reasoning in LLMs.
+
+**Highlights**
+
+* Mystery-story reasoning benchmark
+* Multi-step deduction evaluation
+* Designed for modern frontier models
+
+🤗 https://huggingface.co/datasets/kjgpta/WhoDunIt
 
 ---
 
-## 🛠️ Tech Stack
+### ⚡ EfficientLLM (WIP)
 
-<details>
-<summary><strong>Languages & Frameworks</strong></summary>
+Research and engineering experiments around:
 
-Python | Java | C++ | JavaScript
-PyTorch | TensorFlow | Keras | Transformers
-DeepSpeed | vLLM | OpenAI API | LangChain
-
-</details>
-
-<details>
-<summary><strong>Infrastructure & MLOps</strong></summary>
-
-Azure ML Studio | Databricks | GCP Vertex AI | AWS SageMaker
-MLflow | Kubeflow | Docker | Kubernetes | AKS
-
-</details>
-
-<details>
-<summary><strong>Data & DevOps</strong></summary>
-
-PostgreSQL | MongoDB | Apache Spark | Kafka | Redis
-Git, GitHub Actions, Jenkins | Linux | Bash | Jupyter
-
-</details>
+* Speculative decoding
+* Hierarchical losses
+* Efficient serving
+* Low-latency inference
 
 ---
 
-## 📚 Publications
+## Tech Stack
 
-<ul>
-<li><strong>WhoDunIt:</strong> Culprit detection benchmark (ACL ARR, 2024)</li>
-<li><strong>Code-Switching NLP</strong> (IALP, 2023)</li>
-<li><strong>Statistical Text Augmentation</strong> (ACIIDS, 2023)</li>
-<li><strong>MALM: Zero-Shot MT</strong> (AACL-IJCNLP, 2022)</li>
-<li><strong>Essay Scoring with Transformers</strong> (AISC, 2023)</li>
-</ul>
+### AI & Machine Learning
+
+```text
+PyTorch • Transformers • PEFT (LoRA/QLoRA)
+RAG • LangChain • OpenAI APIs
+vLLM • DeepSpeed • Evaluation Frameworks
+```
+
+### Backend & Applications
+
+```text
+Python • FastAPI • Pydantic
+Flask • REST APIs
+```
+
+### Infrastructure
+
+```text
+Kubernetes • AKS • Docker
+Azure • AWS • Databricks
+CI/CD • Monitoring • MLOps
+```
+
+### Data Systems
+
+```text
+PostgreSQL • CosmosDB
+Spark • Kafka • Redis
+```
 
 ---
 
-## 🌐 Let's Connect!
+## Publications
+
+* WhoDunIt: Evaluation Benchmark for Culprit Detection in Mystery Stories (ACL ARR 2024)
+* Singaporean Conversational English–Malay Code-Switching Points (IALP 2023)
+* Adapting Code-Switching Language Models with Statistical-Based Text Augmentation (ACIIDS 2023)
+* Data Augmentation for Automated Essay Scoring using Transformer Models (AISC 2023)
+* MALM: Mixing Augmented Language Modeling for Zero-Shot Machine Translation (AACL-IJCNLP 2022)
+
+---
+
+## Experience Snapshot
+
+**Forward Deployed Engineer — TrueFoundry**
+
+* Production AI deployments
+* Customer-facing technical leadership
+* AI platform adoption and solution delivery
+
+**Machine Learning Engineer — Chubb**
+
+* Fine-tuned Llama 3.1 70B models
+* Built enterprise RAG systems
+* Developed multi-agent workflows
+* Optimized vLLM deployments on AKS
+* Scaled inference serving to production workloads
+
+---
+
+## Fun Facts
+
+* Published NLP research across ACL, AACL-IJCNLP, IALP, ACIIDS, and AISC venues
+* Interested in reasoning, agents, and efficient inference
+* Enjoy turning research ideas into production systems
+
+---
+
+## 🌐 Let's Connect! <p align="center"> <a href="https://www.linkedin.com/in/kjgpta/">![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)</a> <a href="mailto:mailguptakshitij@gmail.com">![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)</a> </p> 
+
+---
 
 <p align="center">
-  
-  <a href="https://www.linkedin.com/in/kjgpta/">![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)</a>
-  
-  <a href="mailto:mailguptakshitij@gmail.com">![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)</a>
+  <i>"The hardest part of AI isn't training models — it's making them useful."</i>
 </p>
-
----
-
-> *“AI is our most powerful tool—let’s use it wisely!”* 🚀
