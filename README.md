@@ -70,7 +70,7 @@ tracesage demo   # opens the live UI — no API key needed
 
 <div align="center">
   <a href="https://github.com/kjgpta/tracesage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kjgpta&repo=tracesage&theme=dark&hide_border=true&bg_color=0A1422&title_color=3DE0C5&icon_color=3DE0C5&text_color=C9D1D9" alt="tracesage" />
+    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=kjgpta&repo=tracesage&theme=dark&hide_border=true&bg_color=0A1422&title_color=3DE0C5&icon_color=3DE0C5&text_color=C9D1D9" alt="tracesage" />
   </a>
 </div>
 
@@ -139,16 +139,12 @@ Research          NLP · Code-switching · Eval benchmarks
 ## 📊 GitHub stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kjgpta&show_icons=true&theme=dark&hide_border=true&bg_color=0A1422&title_color=3DE0C5&icon_color=3DE0C5&text_color=C9D1D9&ring_color=3DE0C5" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjgpta&layout=compact&theme=dark&hide_border=true&bg_color=0A1422&title_color=3DE0C5&text_color=C9D1D9" alt="languages" />
+  <img height="180" src="https://github-readme-stats-one.vercel.app/api?username=kjgpta&show_icons=true&theme=dark&hide_border=true&bg_color=0A1422&title_color=3DE0C5&icon_color=3DE0C5&text_color=C9D1D9&ring_color=3DE0C5" alt="stats" />
+  <img height="180" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=kjgpta&layout=compact&theme=dark&hide_border=true&bg_color=0A1422&title_color=3DE0C5&text_color=C9D1D9" alt="languages" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kjgpta&theme=dark&hide_border=true&background=0A1422&ring=3DE0C5&fire=3DE0C5&currStreakLabel=3DE0C5" alt="streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kjgpta&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 </div>
 
 ---
